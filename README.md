@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**edoardotecchiati/edoardotecchiati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics student at [Università degli Studi di Torino](https://www.unito.it/), passionate about understanding the world through science and technology. 
 
-Here are some ideas to get you started:
+I'm also a big Formula 1 fan with a special interest in aerodynamics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I love to dive into the tech world and sharpen my programming skills. 
+
+I primarily work with **C++**, and **Python**, and I'm currently keen on improving my skills in **React**.
+
+### A bit more about me:
+- 🎓 Studying Physics at **Università degli Studi di Torino**
+- 🏎 Passionate about **Formula 1** and **aerodynamics**
+- 💻 Tech enthusiast with a focus on **programming**
+- 🧑‍💻 Languages I know: **C**, **C++**, **Python**
+- 🔥 Improving: **React**
+
+Feel free to check out my repositories, and let’s connect!
+
+---
+
+🚀 **Let's build something amazing together!**

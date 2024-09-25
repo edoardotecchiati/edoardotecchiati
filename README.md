@@ -6,13 +6,13 @@ I'm also a big Formula 1 fan with a special interest in aerodynamics.
 
 In my free time, I love to dive into the tech world and sharpen my programming skills. 
 
-I primarily work with **C++**, and **Python**, and I'm currently keen on improving my skills in **React**.
+I primarily work with **C++**, and **Python**, and I'm currently keen on improving my skills in **Python**.
 
 ### A bit more about me:
 - 🎓 Studying Physics at **Università degli Studi di Torino**
 - 🏎 Passionate about **Formula 1** and **aerodynamics**
 - 💻 Tech enthusiast with a focus on **programming**
-- 🧑‍💻 Languages I know: **C**, **C++**, **Python**
+- 🧑‍💻 Languages I know: **C++**, **Python**
 - 🔥 Improving: **React**
 
 Feel free to check out my repositories, and let’s connect!
